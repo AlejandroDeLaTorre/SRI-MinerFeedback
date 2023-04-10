@@ -1,17 +1,13 @@
 # SRI-MinerFeedback
 SRI miner feedback
 
-We need your feedback, dear miners!
+We’re inviting bitcoin miners to pilot test the new StratumV2 (SRI) update locally with their mining rigs and to give us their feedback!
 
-The new StratumV2 (SRI) update, allows miners to select transactions via a new sub-protocol and their node. This is a major milestone in democratizing transaction selections in pooled mining and decentralizing bitcoin!
+Your feedback will have a high impact on the development direction. If you have any of these devices listed in the chart below please reach out through our google form doc here or submit a pull request through the repo here.
 
-We’re inviting bitcoin miners to pilot test the software locally with their mining devices. Your feedback will have a high impact on the development direction. If you have any of these devices listed in the chart below please reach out through our google form doc here.
+Stratum V2 is the next generation protocol for pooled mining. It increases security, makes data transfers more efficient, and reduces mining infrastructure requirements. It also introduces three new sub-protocols that let miners select transaction sets and improve decentralization by negotiating with pools.
 
-SRI’s flexible stack offers various components to choose from when setting up a configuration that suits your needs. We need feedback on testing the SV1 mining device (Antminer S9, S19+, or Whatsminer), connecting to an SV2 pool via Translation Proxy. Miners will be running their own template provider (bitcoind) with the max fee policy. Within the translation proxy, sits a Job Negotiator which runs sub-protocol responsible for distributing miner’s templates to the pool. 
-
-Testing this specific setup will provide valuable feedback for the SRI development team thus improving bitcoin mining for everyone.
-
-Guide on how to get started here: https://stratumprotocol.org/getting-started/
+Guide on how to get started here with your feedback: https://stratumprotocol.org/getting-started/
 
 
 | Mining Rig | SRI | Feedback |
