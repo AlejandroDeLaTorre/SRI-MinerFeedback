@@ -3,7 +3,7 @@ SRI miner feedback
 
 We’re inviting bitcoin miners to pilot test the new StratumV2 (SRI) update locally with their mining rigs and to give us their feedback!
 
-Your feedback will have a high impact on the development direction. Submit your feedback through our google form doc here or submit a pull request through the repo here.
+Your feedback will have a high impact on the development direction. Submit your feedback through our google form doc [HERE](https://forms.gle/TmGB5zYf4fdMmhDf8) or submit a pull request through the repo [HERE](https://github.com/AlejandroDeLaTorre/SRI-MinerFeedback/pulls).
 
 Stratum V2 is the next generation protocol for pooled mining. It increases security, makes data transfers more efficient, and reduces mining infrastructure requirements. It also introduces three new sub-protocols that let miners select transaction sets and improve decentralization by negotiating with pools.
 
